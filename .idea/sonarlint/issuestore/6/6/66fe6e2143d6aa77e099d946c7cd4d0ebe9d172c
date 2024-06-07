@@ -1,0 +1,8 @@
+
+	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ª•ùĞş1J$fff4b9d7-2a0a-4fbb-9885-a2256dded998
+¡	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Àüûûÿÿÿÿ8¼•ùĞş1J$ee3650db-a510-495f-a14a-d31dc7f4ea4f
+|
+java:S1118
+":Add a private constructor to hide the implicit public one.(ïĞ¥(8ØúùĞş1J$4c32958b-5c10-4d4b-a8de-299256ac2c04
+¡
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ÿ÷8Â•ùĞş1J$4b788d7a-ad03-4d51-9706-f5c618a57cc8
